@@ -2,7 +2,6 @@
 
 This repository is created for the ACL 2026 System Demonstration submission.
 
-## Demo Access
 
 - 🎥 Demo Video:  
   https://youtu.be/IUMlRtk_glQ
